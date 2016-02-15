@@ -25,37 +25,6 @@
 	overflow: hidden;
 }
 
-/*--------------------------------------NAVAGATION BAR-------------------------------------------------*/
-#main-navbar{
-	background-color: #253529;
-}
-
-#navbar-container{
-	text-align: center;
-}
-
-#main-navbar ul{
-	list-style-type: none;
-	margin: auto;
-	display: inline-block;
-	vertical-align: top;
-}
-
-#main-navbar ul li{
-	float: left;
-}
-
-#main-navbar ul li a{
-	display: block;
-	padding: 15px;
-	color: white;
-	text-decoration: none;
-}
-
-#main-navbar ul li a:hover{
-	background-color: red;
-}
-
 /*--------------------------------------BODY--------------------------------------------------------*/
 #content-wrapper{
     min-height: 600px;
