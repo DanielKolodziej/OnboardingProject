@@ -61,7 +61,7 @@
 	text-align: center;
 	margin: auto;
 	opacity: 0.8;
-	
+	border-radius: 5px;
 }
 #formS:hover{
 	opacity: 1.0;
