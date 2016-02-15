@@ -72,6 +72,10 @@
 	font-size: large;
 	font-weight: 700;
 }
+#formS #email, #password, #com{
+	border-radius: 10px;
+	border:1px solid #ff4d4d;
+}
 
 #formS h1{
 color: white;
