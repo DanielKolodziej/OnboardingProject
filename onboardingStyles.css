@@ -28,6 +28,12 @@
 	background-image: url("http://eskipaper.com/images/red-car-wallpapers-1.jpg");
 	overflow: hidden;
 }
+#content-wrapper #message-wrapper{
+	margin: auto;
+	background-color: #333333;
+	max-width: 500px;
+	opacity: 0.9;
+}
 /*----------------------------------FOOTER-----------------------------------------------------*/
 
 #main-footer{
