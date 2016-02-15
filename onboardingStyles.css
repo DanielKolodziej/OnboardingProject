@@ -76,6 +76,15 @@
 	border-radius: 10px;
 	border:1px solid #ff4d4d;
 }
+#formS #email:hover{
+	border:2px solid red;
+}
+#formS #password:hover{
+	border:2px solid red;
+}
+#formS #com:hover{
+	border:2px solid red;
+}
 
 #formS h1{
 color: white;
