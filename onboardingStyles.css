@@ -63,9 +63,6 @@
 	opacity: 0.8;
 	border-radius: 5px;
 }
-#formS:hover{
-	opacity: 1.0;
-}
 
 #formS label{
 	color: red;
