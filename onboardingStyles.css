@@ -68,11 +68,13 @@
 
 #formS label{
 	color: red;
+	margin-right: 400px;
+	font-weight: 600;
 }
 
 #formS label:hover{
 	font-size: large;
-	font-weight: 700;
+	font-weight: 900;
 }
 #formS #email, #password, #com{
 	border-radius: 10px;
