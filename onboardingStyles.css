@@ -98,10 +98,11 @@
 	margin-bottom: 0px;
 	padding: 20px;
 	font-family: 'Cantarell', sans-serif;
+	text-shadow: 2px 2px 8px #ffff00;
 }
 #sub{
 	background-color: #F75D59;
-	width: 100px;
+	width: 150px;
 	height: 50px;
 }
 #sub:hover {
