@@ -26,13 +26,13 @@
 
 /*--------------------------------------BODY--------------------------------------------------------*/
 #content-wrapper{
-	min-height: 600px;
+	min-height: 625px;
 	background-image: url("http://eskipaper.com/images/red-car-wallpapers-1.jpg");
 	overflow: hidden;
 }
 #content-wrapper #message-wrapper{
 	margin: auto;
-	background-color: #333333;
+	background-color: #191919;
 	max-width: 500px;
 	opacity: 0.9;
 }
@@ -58,11 +58,11 @@
 /*---------------------------------------------FORM---------------------------------*/
 
 #formS{
-	background-color: #FFE5B4;
+	background-color: #1a0000;
 	max-width: 500px;
 	text-align: center;
 	margin: auto;
-	opacity: 0.8;
+	opacity: 0.9;
 	border-radius: 5px;
 }
 
