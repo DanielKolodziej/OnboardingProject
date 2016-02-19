@@ -74,7 +74,7 @@ table {
 	overflow: hidden;
 }
 
-/*--------------------------------------BODY--------------------------------------------------------*/
+/*--------------------------------------BODY------------------------------------------*/
 #content-wrapper{
 	min-height: 650px;
 	background-image: url("http://eskipaper.com/images/red-car-wallpapers-1.jpg");
@@ -131,6 +131,7 @@ table {
 #formS #email, #password, #com{
 	border-radius: 10px;
 	border:1px solid #ff4d4d;
+	margin-bottom:10px;
 }
 #formS #email:hover{
 	border:2px solid red;
@@ -146,16 +147,18 @@ table {
 	color: white;
 	text-align: center;
 	background: red;
-	margin-top: 20px;
-	margin-bottom: 0px;
+	margin-top: 75px;
+	margin-bottom: 10px;
 	padding: 20px;
 	font-family: 'Cantarell', sans-serif;
 	text-shadow: 2px 2px 8px #ffff00;
+	font-size: 200%;
 }
 #sub{
 	background-color: #F75D59;
 	width: 150px;
 	height: 50px;
+	margin-bottom: 5px;
 }
 #sub:hover {
 	background-color: red;
