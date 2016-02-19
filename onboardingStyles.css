@@ -63,7 +63,7 @@ table {
 #main-header #company-name{
 	margin-top: 30px;
 	font-family: 'Orbitron', sans-serif;
-	font-size: 40px;
+	font-size: 50px;
 	color: red;
 	text-align: center;
 }
@@ -76,12 +76,13 @@ table {
 
 /*--------------------------------------BODY--------------------------------------------------------*/
 #content-wrapper{
-	min-height: 625px;
+	min-height: 650px;
 	background-image: url("http://eskipaper.com/images/red-car-wallpapers-1.jpg");
 	overflow: hidden;
 }
 #content-wrapper #message-wrapper{
 	margin: auto;
+	margin-top: 20px;
 	background-color: #191919;
 	max-width: 500px;
 	opacity: 0.9;
